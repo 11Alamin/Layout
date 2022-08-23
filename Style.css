@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+header{
+  background-color: rgb(155, 115, 193);
+  width: 100%;
+  float: left;
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+.navigation-part{
+width: 100%;
+float: left;
+}
+.hero{
+  width: 100%;
+  float: left;
+}
+.logo-part{
+width: 50%;
+float: left;
+}
+.menu-part{
+  width: 50%;
+  float: left;
+}
+#service{
+  background-color: darkcyan;
+  width: 100%;
+  float: left;
+}
+.writing-part{
+
+}
+.box-part{
+  
+}
+.box-part{
+  width: 25%;
+  float: left;
+}
